@@ -8,7 +8,6 @@ Tree.prototype.traverse = function() {
 
 Tree.prototype.search = function(val) {
     var found = this.root.search(val);
-    
     return found;
 }
 Tree.prototype.addValue = function(val) {
