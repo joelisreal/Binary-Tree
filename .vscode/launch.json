@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "file": "C:/Users/joeli_000/Google Drive/ml/index.html"
+            "file": "C:/Users/joeli_000/Google Drive/Algorithms and Graphs/ml/index.html"
         }
     ]
 }
